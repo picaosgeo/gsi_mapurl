@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/20130717dol2/ZZZ/XXX/YYY.png 
+minzoom=10 
+maxzoom=18 
+center=131.576774 34.581432 
+type=google 
+format=png 
+defaultzoom=10 
+mbtiles=defaulttiles/_gsimap_20130717dol2.mbtiles 
+description=地理院地図 7月17日からの大雨 山口地方「須佐地区」正射画像（2013年7月31日撮影）- 国土地理院

@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/201204dol/ZZZ/XXX/YYY.png 
+minzoom=8 
+maxzoom=18 
+center=139.398651 34.730468
+type=google 
+format=png 
+defaultzoom=8 
+mbtiles=defaulttiles/_gsimap_201204dol.mbtiles 
+description=地理院地図 台風第26号の大雨（大島町）正射画像（2012年4月撮影）- 国土地理院

@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/ort/ZZZ/XXX/YYY.jpg 
+minzoom=2 
+maxzoom=18 
+center=138.731389 35.362222
+type=google 
+format=jpg 
+defaultzoom=15 
+mbtiles=defaulttiles/_gsimap_ort.mbtiles 
+description=地理院地図 電子国土基本図（オルソ画像）- 国土地理院

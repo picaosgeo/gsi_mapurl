@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/toho4/ZZZ/XXX/YYY.jpg 
+minzoom=15 
+maxzoom=18 
+center=141.173673 38.389319 
+type=google 
+format=jpg 
+defaultzoom=15 
+mbtiles=defaulttiles/_gsimap_toho4.mbtiles 
+description=地理院地図 東日本大震災被災地震災後オルソ画像（2013年9月～2013年12月撮影）- 国土地理院

@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/airphoto/ZZZ/XXX/YYY.png 
+minzoom=15 
+maxzoom=18 
+center=138.731389 35.362222
+type=google 
+format=png 
+defaultzoom=15 
+mbtiles=defaulttiles/_gsimap_airphoto.mbtiles 
+description=地理院地図 簡易空中写真（2004年～）- 国土地理院

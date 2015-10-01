@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/fukkokizu/ZZZ/XXX/YYY.png 
+minzoom=12 
+maxzoom=19 
+center=141.173673 38.389319 
+type=google 
+format=png 
+defaultzoom=19 
+mbtiles=defaulttiles/_gsimap_fukkokizu.mbtiles 
+description=地理院地図 災害復興計画基図- 国土地理院

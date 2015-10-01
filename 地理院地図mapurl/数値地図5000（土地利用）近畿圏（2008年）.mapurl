@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/lum4bl_kinki2008/ZZZ/XXX/YYY.png 
+minzoom=13 
+maxzoom=16 
+center=135.519533 34.686113 
+type=google 
+format=png 
+defaultzoom=13 
+mbtiles=defaulttiles/_gsimap_lum4bl_kinki2008.mbtiles 
+description=地理院地図 近畿圏（2008年）- 国土地理院

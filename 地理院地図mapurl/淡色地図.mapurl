@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/pale/ZZZ/XXX/YYY.png 
+minzoom=12 
+maxzoom=18 
+center=138.731389 35.362222 
+type=google 
+format=png 
+defaultzoom=13 
+mbtiles=defaulttiles/_gsimap_pale.mbtiles 
+description=地理院地図 電子国土基本図 - 国土地理院

@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/20140929dol2/ZZZ/XXX/YYY.png 
+minzoom=10 
+maxzoom=18 
+center=137.478104 35.884461 
+type=google 
+format=png 
+defaultzoom=10 
+mbtiles=defaulttiles/_gsimap_20140929dol2.mbtiles 
+description=地理院地図 御嶽山付近噴火活動　航空機SAR画像（2014年9月29日撮影)- 国土地理院

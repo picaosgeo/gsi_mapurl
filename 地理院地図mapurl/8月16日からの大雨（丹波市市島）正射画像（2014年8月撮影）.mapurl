@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/20140819dol/ZZZ/XXX/YYY.png 
+minzoom=10 
+maxzoom=18 
+center=135.102482 35.233632 
+type=google 
+format=png 
+defaultzoom=10 
+mbtiles=defaulttiles/_gsimap_20140819dol.mbtiles 
+description=地理院地図 8月16日からの大雨（丹波市市島）正射画像（2014年8月撮影）- 国土地理院

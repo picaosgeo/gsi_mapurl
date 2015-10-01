@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/english/ZZZ/XXX/YYY.png 
+minzoom=5 
+maxzoom=8 
+center=138.731389 35.362222 
+type=google 
+format=png 
+defaultzoom=5 
+mbtiles=defaulttiles/_gsimap_english.mbtiles 
+description=GSIMaps Japan And Its Surroundings - GSI

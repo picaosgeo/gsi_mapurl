@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/20140704dol/ZZZ/XXX/YYY.png 
+minzoom=10 
+maxzoom=18 
+center=140.876741 27.245835 
+type=google 
+format=png 
+defaultzoom=10 
+mbtiles=defaulttiles/_gsimap_20140704dol.mbtiles 
+description=地理院地図 西之島付近噴火活動 正射画像（2014年7月4日撮影）- 国土地理院

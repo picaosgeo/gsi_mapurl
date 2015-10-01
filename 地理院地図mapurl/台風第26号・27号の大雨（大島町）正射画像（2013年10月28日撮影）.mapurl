@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/20131017dol2/ZZZ/XXX/YYY.png 
+minzoom=10 
+maxzoom=18 
+center=139.398651 34.730468
+type=google 
+format=png 
+defaultzoom=10 
+mbtiles=defaulttiles/_gsimap_20131017dol2.mbtiles 
+description=地理院地図 台風第26号の大雨（大島町）正射画像（2013年10月17日撮影）- 国土地理院

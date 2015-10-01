@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/20150714dol/ZZZ/XXX/YYY.png 
+minzoom=14 
+maxzoom=18 
+center=130.206571 30.448914 
+type=google 
+format=png 
+defaultzoom=14 
+mbtiles=defaulttiles/_gsimap_20150714dol.mbtiles 
+description=地理院地図 口永良部島の火山活動　UAV撮影による正射画像（2015年7月14日撮影)- 国土地理院

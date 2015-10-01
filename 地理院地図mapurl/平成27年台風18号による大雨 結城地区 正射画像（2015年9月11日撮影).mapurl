@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/20150911dol5/ZZZ/XXX/YYY.png 
+minzoom=10 
+maxzoom=18 
+center=139.898658 36.246852 
+type=google 
+format=png 
+defaultzoom=10 
+mbtiles=defaulttiles/_gsimap_20150911dol5.mbtiles 
+description=地理院地図 平成27年台風18号による大雨 結城地区 正射画像（2015年9月11日撮影)- 国土地理院

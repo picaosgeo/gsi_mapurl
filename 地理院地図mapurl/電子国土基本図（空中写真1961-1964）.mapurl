@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/ort_old10/ZZZ/XXX/YYY.png 
+minzoom=5 
+maxzoom=17 
+center=138.731389 35.362222
+type=google 
+format=png 
+defaultzoom=15 
+mbtiles=defaulttiles/_gsimap_ort_old10.mbtiles 
+description=地理院地図 空中写真（1961～1964年）- 国土地理院

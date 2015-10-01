@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/lum4bl_chubu2003/ZZZ/XXX/YYY.png 
+minzoom=13 
+maxzoom=16 
+center=136.906815 35.181078 
+type=google 
+format=png 
+defaultzoom=13 
+mbtiles=defaulttiles/_gsimap_lum4bl_chubu2003.mbtiles 
+description=地理院地図 中部圏（2003年）- 国土地理院

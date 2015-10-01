@@ -1,0 +1,9 @@
+url=http://cyberjapandata.gsi.go.jp/xyz/20140711dol/ZZZ/XXX/YYY.png 
+minzoom=8 
+maxzoom=18 
+center=137.611356 35.606144 
+type=google 
+format=png 
+defaultzoom=15 
+mbtiles=defaulttiles/_gsimap_20140711dol.mbtiles 
+description=地理院地図 台風第８号等による大雨（南木曽町）斜め写真による正射画像（2014年7月撮影）- 国土地理院
